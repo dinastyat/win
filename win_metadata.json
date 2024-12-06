@@ -1,0 +1,7 @@
+{
+  "name": "Win Token",
+  "symbol": "WIN",
+  "description": "This is WIN token on Solana.",
+  "image": "https://cdn.statically.io/gh/dinastyat/win/main/win-icon.png",
+  "attributes": []
+}
